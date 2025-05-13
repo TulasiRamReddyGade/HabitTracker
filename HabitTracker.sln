@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitTracker.API", "HabitTracker.API\HabitTracker.API.csproj", "{8A64D91B-879B-4BFF-9977-C3125E405106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitTracker.BusinessLogic", "HabitTracker.BusinessLogic\HabitTracker.BusinessLogic.csproj", "{C15111BA-EC47-4D2C-9EC3-A2FF2FC7A6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitTracker.DataAccess", "HabitTracker.DataAccess\HabitTracker.DataAccess.csproj", "{845C3C86-53DA-4B22-9757-D9C5CA24D9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A64D91B-879B-4BFF-9977-C3125E405106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A64D91B-879B-4BFF-9977-C3125E405106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A64D91B-879B-4BFF-9977-C3125E405106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A64D91B-879B-4BFF-9977-C3125E405106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15111BA-EC47-4D2C-9EC3-A2FF2FC7A6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15111BA-EC47-4D2C-9EC3-A2FF2FC7A6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15111BA-EC47-4D2C-9EC3-A2FF2FC7A6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15111BA-EC47-4D2C-9EC3-A2FF2FC7A6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845C3C86-53DA-4B22-9757-D9C5CA24D9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845C3C86-53DA-4B22-9757-D9C5CA24D9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845C3C86-53DA-4B22-9757-D9C5CA24D9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845C3C86-53DA-4B22-9757-D9C5CA24D9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
