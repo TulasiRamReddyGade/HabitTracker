@@ -13,5 +13,10 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\HabitTracker.BusinessLogic\HabitTracker.BusinessLogic.csproj" />
+      <ProjectReference Include="..\HabitTracker.DataAccess\HabitTracker.DataAccess.csproj" />
+    </ItemGroup>
+
 
 </Project>
